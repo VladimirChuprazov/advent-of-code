@@ -1,0 +1,7 @@
+services:
+  app:
+    image: aoc
+    build: .
+    volumes:
+      - .:/usr/src/app
+    command: npm start
