@@ -1,1 +1,1 @@
-console.log('Hello world!');
+import './2022/day-1';
