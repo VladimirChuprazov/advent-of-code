@@ -4,7 +4,7 @@
 
 ### With Docker
 
-> :warning: Make sure Docker in installed
+> :warning: Make sure Docker is installed
 
 ```bash
 make build
