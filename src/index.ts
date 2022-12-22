@@ -1,1 +1,1 @@
-import './2022/day-4';
+import './2022/day-5';
